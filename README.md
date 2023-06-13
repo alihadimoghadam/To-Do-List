@@ -21,12 +21,12 @@ The Command-Line Todo List Application is a simple Python program that allows us
    ```bash
    git clone https://github.com/alihadimoghadam/todo-list-app.git
 2. Navigate to the project directory:
-- cd todo-list-app
+   ```cd todo-list-app
 
 # Usage
 
 1. Run the application:
-- python todo.py
+   ```python todo.py
 
 2. The application will display a menu with options to perform various actions. Follow the on-screen prompts to add tasks, list tasks, complete tasks, or exit the application.
 
